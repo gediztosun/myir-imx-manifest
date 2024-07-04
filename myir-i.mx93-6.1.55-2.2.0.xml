@@ -28,7 +28,7 @@
   <project name="meta-freescale-3rdparty" remote="community" path="sources/meta-freescale-3rdparty" revision="bccd93f1ceece608e69799b6fc8f79e8a519f89e" upstream="master" />
   <project name="meta-freescale-distro" remote="community" path="sources/meta-freescale-distro" revision="7956a0ab407a33c40fdc6eb4fabdcb7dc54fd359" upstream="master" />
   <project name="meta-arm" remote="yp" path="sources/meta-arm" revision="c6380674f59489b327c5047d803cc35b68642cd4" upstream="mickledore" />
-  <project name="meta-qt6" remote="qt" path="sources/meta-qt6" revision="1406d0a85525a71fe5d7892d7f915404290a78ad" upstream="6.5.0" />
+  <project name="meta-qt6.git" remote="qt" path="sources/meta-qt6" revision="1406d0a85525a71fe5d7892d7f915404290a78ad" upstream="6.5.0" />
   <project name="meta-browser" remote="ossystems" path="sources/meta-browser" revision="e232c2e21b96dc092d9af8bea4b3a528e7a46dd6" />
   <project name="meta-security" remote="yp" path="sources/meta-security" revision="d7db0a3bd1a8639df7570483f003ce00cbe274a2" upstream="mickledore" />
   <project name="meta-timesys" remote="timesys" path="sources/meta-timesys" revision="0792a1f2c23e123cc4098d52b7696da990f5d8d4" upstream="mickledore" />
